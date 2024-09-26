@@ -1,4 +1,5 @@
-theme = 'congo'
 baseURL = 'https://lukaszsztukiewicz.com'
 languageCode = 'en-us'
 title = 'Lukasz Sztukiewicz Personal Website'
+theme = ['hugo-embed-pdf-shortcode', 'congo']
+enableInlineShortcodes = true

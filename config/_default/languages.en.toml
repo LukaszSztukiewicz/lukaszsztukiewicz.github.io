@@ -4,13 +4,13 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Lukasz Sztukiewicz"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "Copyright 2024 Lukasz Sztukiewicz \n | Last revisited: September 2024"
 
 [params]
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  description = "Lukasz Sztukiewicz personal website"
+  description = "Lukasz Sztukiewicz's personal website"
 
 [params.author]
   name = "Lukasz Sztukiewicz"

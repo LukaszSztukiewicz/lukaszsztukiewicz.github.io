@@ -36,3 +36,13 @@ All searches are performed client-side meaning there’s nothing to configure on
 
 #### Tables of contents 
 On article pages
+
+### Folder strucutre
+
+- Layouts - for theme layouts override
+- Static - for static files, it is the folder that is copied to public during build time
+- Assets - default location for images, css, js
+
+### Vocabulary
+
+Front Matter - the top section of the markdown file that contains metadata about the post

@@ -1,0 +1,24 @@
+<script type="text/javascript">
+  (function (c, l, a, r, i, t, y) {
+    c[a] =
+      c[a] ||
+      function () {
+        (c[a].q = c[a].q || []).push(arguments);
+      };
+    t = l.createElement(r);
+    t.async = 1;
+    t.src = "https://www.clarity.ms/tag/" + i;
+    y = l.getElementsByTagName(r)[0];
+    y.parentNode.insertBefore(t, y);
+  })(window, document, "clarity", "script", "o9b9ntm0gf");
+</script>
+
+<script
+  defer
+  src="https://cloud.umami.is/script.js"
+  data-website-id="c9f4ee75-a2c0-4a8d-a184-4b33ffe14a0e"
+></script>
+
+{{ if .Param "math" }}
+    {{ partialCached "math.html" . }}
+{{ end }}
