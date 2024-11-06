@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Lukasz Sztukiewicz"
-copyright = "Copyright 2024 Lukasz Sztukiewicz \n | Last revisited: September 2024"
+copyright = "Copyright 2024 Lukasz Sztukiewicz \n | Last revisited: November 2024"
 
 [params]
   dateFormat = "2 January 2006"
@@ -15,8 +15,8 @@ copyright = "Copyright 2024 Lukasz Sztukiewicz \n | Last revisited: September 20
 [params.author]
   name = "Lukasz Sztukiewicz"
   image = "img/lukaszsztukiewicz-headshot.jpg"
-  headline = "Artificial Intelligence Engineerigng Student at Poznan University of Technology"
-  bio = "Artificial Intelligence Engineerigng Student at Poznan University of Technology"
+  headline = "Artificial Intelligence Engineering Student at Poznan University of Technology"
+  bio = "Artificial Intelligence Engineering Student at Poznan University of Technology"
   links = [
     { email = "mailto:contact@lukaszsztukiewicz.com" },
   #   { link = "https://link-to-some-website.com/" },

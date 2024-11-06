@@ -10,4 +10,4 @@ showSummary = true
 showTaxonomies = true
 +++
 
-Some of my research projects are listed below. For more information, please visit my
+Some of my research projects are listed below

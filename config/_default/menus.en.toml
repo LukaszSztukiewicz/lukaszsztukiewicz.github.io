@@ -26,16 +26,20 @@
   weight = 20
 
 
-# [[main]]
-#   name = "About Me"
-#   pageRef = "About"
-#   weight = 20
+[[main]]
+  name = "About Me"
+  pageRef = "About"
+  weight = 20
 
 [[main]]
   name = "Certificates"
   pageRef = "certificates"
   weight = 20
 
+[[main]]
+  name = "Contact"
+  pageRef = "Contact"
+  weight = 21
 
 # [[main]]
 #   name = "Tags"
