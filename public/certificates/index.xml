@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Certificates on Lukasz Sztukiewicz</title>
-    <link>https://lukaszsztukiewicz.com/certificates/</link>
+    <link>http://localhost:1313/certificates/</link>
     <description>Recent content in Certificates on Lukasz Sztukiewicz</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright 2024 Lukasz Sztukiewicz 
  | Last revisited: November 2024</copyright>
     <lastBuildDate>Wed, 26 Apr 2023 11:22:21 +0200</lastBuildDate>
-    <atom:link href="https://lukaszsztukiewicz.com/certificates/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/certificates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building and Managing Resilient Teams</title>
-      <link>https://lukaszsztukiewicz.com/certificates/building-chicago-2023/</link>
+      <link>http://localhost:1313/certificates/building-chicago-2023/</link>
       <pubDate>Wed, 26 Apr 2023 11:22:21 +0200</pubDate>
-      <guid>https://lukaszsztukiewicz.com/certificates/building-chicago-2023/</guid>
+      <guid>http://localhost:1313/certificates/building-chicago-2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Leading Digital Transformation</title>
-      <link>https://lukaszsztukiewicz.com/certificates/leading-mit-2022/</link>
+      <link>http://localhost:1313/certificates/leading-mit-2022/</link>
       <pubDate>Tue, 16 Aug 2022 11:11:11 +0200</pubDate>
-      <guid>https://lukaszsztukiewicz.com/certificates/leading-mit-2022/</guid>
+      <guid>http://localhost:1313/certificates/leading-mit-2022/</guid>
       <description>Massachusetts Institute of Technology Professional Education</description>
     </item>
   </channel>
