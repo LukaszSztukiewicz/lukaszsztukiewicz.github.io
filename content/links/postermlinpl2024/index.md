@@ -5,6 +5,9 @@ draft = false
 aliases = [
     "/postermlinpl2024/"
 ]
+showPagination = false
+showReadingTime = false
+showAuthor = false
 +++
 
 # The poster

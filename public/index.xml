@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lukasz Sztukiewicz</title>
-    <link>http://localhost:1313/</link>
+    <link>https://lukaszsztukiewicz.com/</link>
     <description>Recent content on Lukasz Sztukiewicz</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright 2024 Lukasz Sztukiewicz 
  | Last revisited: November 2024</copyright>
     <lastBuildDate>Tue, 05 Nov 2024 20:16:48 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lukaszsztukiewicz.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poster MLinPL 2024</title>
-      <link>http://localhost:1313/links/postermlinpl2024/</link>
+      <link>https://lukaszsztukiewicz.com/links/postermlinpl2024/</link>
       <pubDate>Tue, 05 Nov 2024 20:16:48 +0200</pubDate>
-      <guid>http://localhost:1313/links/postermlinpl2024/</guid>
+      <guid>https://lukaszsztukiewicz.com/links/postermlinpl2024/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://lukaszsztukiewicz.com/about/</link>
       <pubDate>Wed, 25 Sep 2024 13:20:43 +0200</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://lukaszsztukiewicz.com/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://lukaszsztukiewicz.com/contact/</link>
       <pubDate>Wed, 25 Sep 2024 13:20:43 +0200</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://lukaszsztukiewicz.com/contact/</guid>
       <description></description>
     </item>
     <item>
       <title>Research Poster on MLinPL Conference 2023</title>
-      <link>http://localhost:1313/research/learning-mlinpl-2023/</link>
+      <link>https://lukaszsztukiewicz.com/research/learning-mlinpl-2023/</link>
       <pubDate>Sat, 28 Oct 2023 10:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/research/learning-mlinpl-2023/</guid>
+      <guid>https://lukaszsztukiewicz.com/research/learning-mlinpl-2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Building and Managing Resilient Teams</title>
-      <link>http://localhost:1313/certificates/building-chicago-2023/</link>
+      <link>https://lukaszsztukiewicz.com/certificates/building-chicago-2023/</link>
       <pubDate>Wed, 26 Apr 2023 11:22:21 +0200</pubDate>
-      <guid>http://localhost:1313/certificates/building-chicago-2023/</guid>
+      <guid>https://lukaszsztukiewicz.com/certificates/building-chicago-2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Leading Digital Transformation</title>
-      <link>http://localhost:1313/certificates/leading-mit-2022/</link>
+      <link>https://lukaszsztukiewicz.com/certificates/leading-mit-2022/</link>
       <pubDate>Tue, 16 Aug 2022 11:11:11 +0200</pubDate>
-      <guid>http://localhost:1313/certificates/leading-mit-2022/</guid>
+      <guid>https://lukaszsztukiewicz.com/certificates/leading-mit-2022/</guid>
       <description>Massachusetts Institute of Technology Professional Education</description>
     </item>
   </channel>
