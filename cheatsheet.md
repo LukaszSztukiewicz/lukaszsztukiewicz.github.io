@@ -8,6 +8,11 @@ then innitialize
 
 `git submodule update --init --recursive`
 
+### without drafts
+hugo server 
+### with drafts
+hugo server -D      
+### build for production
 hugo --gc --minify   
 
 To refresh the knowledge of Hugo [Fireship](https://www.youtube.com/watch?v=0RKpf3rK57I)

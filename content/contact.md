@@ -9,6 +9,8 @@ showAuthor = false
 +++
 
 
-For any questions or inquiries, feel free to reach out via email:
+If you’re tackling similar challenges - or just excited about pushing the boundaries of AI in life science - feel free to reach out. I’m always open to collaboration.
 
-contact [at] lukaszsztukiewicz [dot] com
+lukasz [at] lukaszsztukiewicz [dot] com
+
+Currently based in Berlin, Germany.

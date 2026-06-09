@@ -1,7 +1,7 @@
 +++
 title = 'Building and Managing Resilient Teams'
 date = 2023-04-26T11:22:21+02:00
-draft = false
+draft = true
 +++
 
 I have completed the course on Building and Managing Resilient Teams by the University of Chicago via [University of Chicago Professional Education](https://professional.uchicago.edu/). 

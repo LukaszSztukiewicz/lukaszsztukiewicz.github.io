@@ -1,7 +1,7 @@
 +++
 title = 'Research'
 date = 2024-09-26T20:22:57+02:00
-draft = false
+draft = true
 showdate = false
 showPagination = false
 showReadingTime = false

@@ -20,10 +20,10 @@
 #   pageRef = "categories"
 #   weight = 20
 
-[[main]]
-  name = "Research"
-  pageRef = "research"
-  weight = 20
+# [[main]]
+#   name = "Research"
+#   pageRef = "research"
+#   weight = 20
 
 
 [[main]]
@@ -31,10 +31,10 @@
   pageRef = "About"
   weight = 20
 
-[[main]]
-  name = "Certificates"
-  pageRef = "certificates"
-  weight = 20
+# [[main]]
+#   name = "Certificates"
+#   pageRef = "certificates"
+#   weight = 20
 
 [[main]]
   name = "Contact"

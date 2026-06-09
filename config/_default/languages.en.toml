@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Lukasz Sztukiewicz"
-copyright = "Copyright 2024 Lukasz Sztukiewicz \n | Last revisited: November 2024"
+copyright = "Copyright 2026 Lukasz Sztukiewicz \n | Last revisited: June 2026"
 
 [params]
   dateFormat = "2 January 2006"
@@ -15,8 +15,8 @@ copyright = "Copyright 2024 Lukasz Sztukiewicz \n | Last revisited: November 202
 [params.author]
   name = "Lukasz Sztukiewicz"
   image = "img/lukaszsztukiewicz-headshot.jpg"
-  headline = "Artificial Intelligence Engineering Student at Poznan University of Technology"
-  bio = "Artificial Intelligence Engineering Student at Poznan University of Technology"
+  headline = "Making medicines cheaper and safer with AI"
+  bio = "Making medicines cheaper and safer with AI"
   links = [
     { email = "mailto:contact@lukaszsztukiewicz.com" },
   #   { link = "https://link-to-some-website.com/" },
@@ -60,6 +60,6 @@ copyright = "Copyright 2024 Lukasz Sztukiewicz \n | Last revisited: November 202
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
-    { x-twitter = "https://twitter.com/LSztukiewicz" },
+  # { x-twitter = "https://twitter.com/LSztukiewicz" },
   #   { youtube = "https://youtube.com/username" },
   ]
