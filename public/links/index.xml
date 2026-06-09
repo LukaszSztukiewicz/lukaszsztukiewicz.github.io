@@ -1,14 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Links on Lukasz Sztukiewicz</title>
-    <link>http://localhost:1313/links/</link>
-    <description>Recent content in Links on Lukasz Sztukiewicz</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Copyright 2026 Lukasz Sztukiewicz 
- | Last revisited: June 2026</copyright>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/links/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Links on Lukasz Sztukiewicz</title><link>https://lukaszsztukiewicz.com/links/</link><description>Recent content in Links on Lukasz Sztukiewicz</description><generator>Hugo</generator><language>en</language><copyright>Copyright 2026 Lukasz Sztukiewicz
+| Last revisited: June 2026</copyright><atom:link href="https://lukaszsztukiewicz.com/links/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
