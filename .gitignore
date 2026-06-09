@@ -1,0 +1,17 @@
+# Generated site output
+public/
+
+# Generated resources
+resources/_gen/
+
+# Hugo build lock file
+.hugo_build.lock
+
+# Dependencies (if using npm for Hugo Pipes/Tailwind/etc.)
+node_modules/
+package-lock.json
+yarn.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
