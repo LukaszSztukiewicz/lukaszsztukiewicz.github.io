@@ -1,2 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Research on Lukasz Sztukiewicz</title><link>https://lukaszsztukiewicz.com/research/</link><description>Recent content in Research on Lukasz Sztukiewicz</description><generator>Hugo</generator><language>en</language><copyright>Copyright 2024 Lukasz Sztukiewicz
-| Last revisited: November 2024</copyright><lastBuildDate>Sat, 28 Oct 2023 10:00:00 +0200</lastBuildDate><atom:link href="https://lukaszsztukiewicz.com/research/index.xml" rel="self" type="application/rss+xml"/><item><title>Research Poster on MLinPL Conference 2023</title><link>https://lukaszsztukiewicz.com/research/learning-mlinpl-2023/</link><pubDate>Sat, 28 Oct 2023 10:00:00 +0200</pubDate><guid>https://lukaszsztukiewicz.com/research/learning-mlinpl-2023/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Lukasz Sztukiewicz</title>
+    <link>http://localhost:1313/research/</link>
+    <description>Recent content in Research on Lukasz Sztukiewicz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright 2024 Lukasz Sztukiewicz 
+ | Last revisited: November 2024</copyright>
+    <lastBuildDate>Tue, 05 Nov 2024 20:16:48 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Poster on MLinPL Conference 2024</title>
+      <link>http://localhost:1313/research/debiasing-mlinpl-2024/</link>
+      <pubDate>Tue, 05 Nov 2024 20:16:48 +0200</pubDate>
+      <guid>http://localhost:1313/research/debiasing-mlinpl-2024/</guid>
+      <description>The poster #See the poster below:</description>
+    </item>
+    <item>
+      <title>Exploring Loss Design Techniques For Decision Tree Robustness To Label Noise</title>
+      <link>http://localhost:1313/research/tinypaper-iclr-2024/</link>
+      <pubDate>Thu, 26 Sep 2024 20:22:57 +0200</pubDate>
+      <guid>http://localhost:1313/research/tinypaper-iclr-2024/</guid>
+      <description>This is an inline \(a^*=x-b^*\) equation.</description>
+    </item>
+    <item>
+      <title>FOSSILS</title>
+      <link>http://localhost:1313/research/fossils/</link>
+      <pubDate>Thu, 26 Sep 2024 20:16:48 +0200</pubDate>
+      <guid>http://localhost:1313/research/fossils/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research Poster on MLinPL Conference 2023</title>
+      <link>http://localhost:1313/research/learning-mlinpl-2023/</link>
+      <pubDate>Sat, 28 Oct 2023 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/research/learning-mlinpl-2023/</guid>
+      <description>The poster #See the poster below:</description>
+    </item>
+  </channel>
+</rss>
