@@ -2,6 +2,14 @@
 ### Hugo
 
 
+first install hugo and go
+
+then innitialize
+
+`git submodule update --init --recursive`
+
+hugo --gc --minify   
+
 To refresh the knowledge of Hugo [Fireship](https://www.youtube.com/watch?v=0RKpf3rK57I)
 
 Add new page:
